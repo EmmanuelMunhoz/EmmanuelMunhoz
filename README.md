@@ -1,33 +1,36 @@
-### Olá! Sou Emmanuel Munhoz 👋
+# Olá, me chamo Emmanuel Munhoz ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-##
- 💻 Cursando Análise e desenvolvimento de sistemas
-<p align="center" >  
-  <a href="mailto:emmanuelmunhoz1@gmail.com">
-    <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
-  </a>
-  <a href="https://www.linkedin.com/in/emmanuelmunhoz1/" target="_blank">
-    <img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
-  </a>
+![octocat-1679423245249 (4)](https://user-images.githubusercontent.com/109323615/226710389-f7695ffd-a20d-45a7-954f-e796da14dc7e.png)
+- 🔭 Atualmente estou trabalhando como suporte técnico
+- 🚀 Cursando Análise e desenvolvimento de sistemas 
+- 🌱 Atualmente estou aprendendo C#, Windows Forms e .NET
+- ⚡ Curiosidade: Tenho como foco a área de Back-End 
+ 
 
-##
- 
- 
- <p align="center" >
- <img align="center" alt="emmanuel-HTML" height="40" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" alt="emmanuel-CSS" height="40" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" alt="emmanuel-Csharp" height="40" width="100" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
- <img align="center" alt="emmanuel-sql" height="40" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
- <img align="center" alt="emmanuel-python" height="40" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
- <img align="center" alt="emmanuel-.net" height="40" width="100" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white>
- <img align="center" alt="emmanuel-postgre" height="40" width="100" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
-  </p>
- 
- #
- 
+
+
+
+
+## Estou aprendendo  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="60" width="100"/>![bloggif_6419ff295c36e](https://user-images.githubusercontent.com/109323615/226714146-8a5b37fb-b0ae-46d7-867e-13df52617410.gif)
+
+
+
+## Contatos:
+
+<div>
+<a href = "mailto:emmanuelmunhoz1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/emmanuelmunhoz1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
 <p align="center"  >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmunhoz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmunhoz&layout=compact&langs_count=16&theme=dark"/>
-</p>
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/109323615/179144397-3b6ddaad-3afd-4168-8ede-5960ccbb1e92.gif)
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/109323615/179144397-3b6ddaad-3afd-4168-8ede-5960ccbb1e92.gif) </P>
+
+
