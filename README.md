@@ -8,13 +8,6 @@
  <h1 align="left">Emmanuel Munhoz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  <a href="https://www.linkedin.com/in/emmanuelmunhoz1/">
  <img  width="50px" src="https://user-images.githubusercontent.com/109323615/226733530-148593d2-3a73-42ab-92c1-4d31b49b6057.png">
- 
-<a href="https://wa.me/<16991847664">
-<img  width="50px" src="https://user-images.githubusercontent.com/109323615/226733788-d0f37cf3-c865-484f-964f-68cf10ef9a4b.png">
-
-<a href="t.me/EmmanuelMunhoz">
-<img  width="50px" src="https://user-images.githubusercontent.com/109323615/226734835-c5246c20-fa68-44bc-bed1-483726ce5a1c.png"></A>
-</div>
   
 </br>
 </br>
