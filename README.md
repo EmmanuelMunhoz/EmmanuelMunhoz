@@ -31,7 +31,7 @@
 -🌱 Atualmente estou aprendendo C#, Windows forms e .NET <br>
 -⚡ Curiosidade: Não vivo sem café e computador <br>
 -🚀 Atualmente estou estudando e trabalhando em projetos pessoais <br>
--📫 Como chegar até mim: Clica <a href="https://wa.me/<991847664"> AQUI </a>
+-📫 Como chegar até mim: Clica <a href="https://wa.me/16991847664"> AQUI </a>
 
 
  
