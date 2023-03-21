@@ -35,6 +35,8 @@
 -🚀 Atualmente estou estudando e trabalhando em projetos pessoais <br>
 -📫 Como chegar até mim: Clica <a href="https://wa.me/16991847664"> AQUI </a>
 
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/109323615/179144397-3b6ddaad-3afd-4168-8ede-5960ccbb1e92.gif)
+
 
  
  
