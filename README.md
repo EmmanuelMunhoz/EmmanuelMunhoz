@@ -2,7 +2,7 @@
 
 ##
 
- <p aling="center> 💻 Cursando Análise e desenvolvimento de sistemas
+ <p aling="center" 💻 Cursando Análise e desenvolvimento de sistemas>
 </p>
 <p align="center" >  
   <a href="mailto:emmanuelmunhoz1@gmail.com">
@@ -11,12 +11,12 @@
   <a href="https://www.linkedin.com/in/emmanuelmunhoz1/" target="_blank">
     <img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
   </a>
-  <a href="Emmanuel Munhoz#5121">
+  <a href="EmmanuelMunhoz#5121">
      <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white>
 </p>
 
 ##
-
+ 
  
  <p align="center" >
  <img align="center" alt="emmanuel-HTML" height="40" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
