@@ -9,6 +9,8 @@
  <a href="https://www.linkedin.com/in/emmanuelmunhoz1/">
  <img  width="50px" src="https://user-images.githubusercontent.com/109323615/226733530-148593d2-3a73-42ab-92c1-4d31b49b6057.png">
   
+  <a href="https://t.me/EmmanuelMunhoz">
+<img  width="50px" src="https://user-images.githubusercontent.com/109323615/226734835-c5246c20-fa68-44bc-bed1-483726ce5a1c.png"></A>
 </br>
 </br>
 
