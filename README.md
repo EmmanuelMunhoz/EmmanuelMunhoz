@@ -14,26 +14,26 @@
 </br>
 </br>
 
-### 📖 Graduação
+### 📖 Graduation
 
-<p> • Análise e desenvolvimento de sistemas - Universidade Paulista </P>
-<p>• C# programação orientada a objetos - Udemy </p>
+<p> • Analysis and systems development - Universidade Paulista </P>
+<p> • C# Object oriented programming - Udemy </p>
 </div>
 <hr>
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Technologies and Tools: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="60" width="100"/>  <img align="right" width="100px" style="margin" src="https://user-images.githubusercontent.com/109323615/226714146-8a5b37fb-b0ae-46d7-867e-13df52617410.gif"> <hr>
  
 ### 👨🏼‍💻 GitHub Status
 ![YOUR GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelMunhoz&show_icons=true&theme=dracula")
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMunhoz&layout=compact&hide_border=true&langs_count=10"> <hr>
 
-### Sobre
+### About
 
--🌱 Atualmente estou aprendendo C#, Windows forms e .NET <br>
--⚡ Curiosidade: Não vivo sem café e computador <br>
--🚀 Atualmente estou estudando e trabalhando em projetos pessoais <br>
--📫 Como chegar até mim: Clica <a href="https://wa.me/16991847664"> AQUI </a>
+-🌱 I'm currently learning C#, Windows forms and .NET <br>
+-⚡ Curiosity: I can't live without coffee and computer <br>
+-🚀 I'm currently studying and working on personal projects <br>
+-📫 How to reach me: Click <a href="https://wa.me/16991847664"> HERE </a>
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/109323615/179144397-3b6ddaad-3afd-4168-8ede-5960ccbb1e92.gif)
 
