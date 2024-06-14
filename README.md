@@ -1,12 +1,13 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/109323615/226710389-f7695ffd-a20d-45a7-954f-e796da14dc7e.png">
 
-</br>
-</br>
+
+
+
 
 <div dsplay="inline-block">
  
  <h1 align="left">Emmanuel Munhoz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  <a href="https://www.linkedin.com/in/emmanuelmunhoz1/">
+  <img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/109323615/226710389-f7695ffd-a20d-45a7-954f-e796da14dc7e.png">
  <img  width="50px" src="https://user-images.githubusercontent.com/109323615/226733530-148593d2-3a73-42ab-92c1-4d31b49b6057.png">
   
   <a href="https://t.me/EmmanuelMunhoz">
